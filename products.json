@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fruit",
+        "img": "/img/51xUkLl29JL.jpg",
+        "add": true
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "category": "Fruit",
+        "add": true
+    },
+    {
+        "id": 3,
+        "name": "Tomato",
+        "category": "Vegetables",
+        "add": false
+    }
+]
